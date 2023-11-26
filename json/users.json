@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Слава",
+            "date": "09-05-1990",
+            "email": "kpss@gmail.com",
+            "avatar": "1.jpg",
+            "role": "Администратор",
+            "status": "Активный",
+            "friends": [2, 3, 4, 5, 6]
+        },
+        {
+            "id": 2,
+            "name": "Гнойный",
+            "date": "09-05-1990",
+            "email": "slovo@spb.com",
+            "avatar": "2.jpg",
+            "role": "Пользователь",
+            "status": "Активный",
+            "friends": [1]
+        },
+        {
+            "id": 3,
+            "name": "Воровская лапа",
+            "date": "09-05-1990",
+            "email": "wa-wa-wa-wa-wa-waravsraya_lapa@gmail.com",
+            "avatar": "3.jpg",
+            "role": "Пользователь",
+            "status": "Заблокированный",
+            "friends": null
+        },
+        {
+            "id": 4,
+            "name": "Валентин Дядька",
+            "date": "09-05-1890",
+            "email": "stadion@sobran.com",
+            "avatar": "4.jpg",
+            "role": "Пользователь",
+            "status": "Подтвержденный",
+            "friends": [1, 2, 5, 6]
+        },
+        {
+            "id": 5,
+            "name": "Бутер Бродский",
+            "date": "09-05-1990",
+            "email": "spb@usa.com",
+            "avatar": "5.jpg",
+            "role": "Пользователь",
+            "status": "Заблокированный",
+            "friends": [4]
+        },
+        {
+            "id": 6,
+            "name": "Соня Мармеладова",
+            "date": "09-05-1990",
+            "email": "noflex@gmail.ru",
+            "avatar": "6.jpg",
+            "role": "Администратор",
+            "status": "Активный",
+            "friends": [1, 2, 3, 4, 5]
+        }
+    ]
+}
